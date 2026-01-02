@@ -1,8 +1,6 @@
 # BCA-Foundation
 "My journay of BCA Foundations and projects in Python, SQL, Data Science, AI/ML, and Cybersecurity.”
 
-# BCA-Foundation
-
 This repository is a space to document my learning journey as a Bachelor of Computer Applications (BCA) student.  
 It includes study notes, practice exercises, and portfolio projects across key areas of technology:
 
